@@ -66,7 +66,7 @@ To run this project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ELMOUADDIBE/flutter-demo-app.git
+   git clone https://github.com/Med124s/flutter-demo-app.git
    cd flutter-app
    ```
 
